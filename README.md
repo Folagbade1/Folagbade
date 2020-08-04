@@ -1,4 +1,4 @@
-# Folagbade-Team Curie
+## I'm <a href="https://folagbade1.github.io/">Vedant</a> currently a Research Assistant  and an aspiring biomedical researcher  with interest in using bioinformatics, genomics and proteomics to predict protein-protein interactions during infections by multidrug resistant bacteria. I am currently learning about bioinformatics. I am currently partaking in the Hackbio internship and I am beginning to Programming :neutral_face:
 ## Hackbio Intership 2020
 
 
