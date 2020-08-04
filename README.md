@@ -4,6 +4,8 @@
 
 
 This repository was created by Folagbade, a member of Team Curie.
+## Internship Project 1 Flowchart
+![Flowchart](https://github.com/Folagbade1/Folagbade/blob/master/Flowchart-1.jpg "Flowchart")
 ## Biostack-Genomics
 My interest is in genomics, particularly employing it in studying protein-protein interactions in human cells during a disease or a bacterial infection
 ### Connect with me :smiley:
